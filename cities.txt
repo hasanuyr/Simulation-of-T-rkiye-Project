@@ -1,0 +1,809 @@
+
+ADANA
+
+Altitude: 23 m 
+Population: 2.237.940
+Region: Mediterranean region
+Area: 5.345 km^2
+Most popular place: Taskopru 
+Most popular food: Adana kebab
+
+
+ADIYAMAN
+
+Altitude: 669 m
+Population: 308.915
+Region: Southeastern Anatolia Region
+Area:  1.679 km^2
+Most popular place: Nemrut Mountain 
+Most popular food: Adiyaman Tavasi
+
+
+AFYONKARAHISAR
+
+Altitude: 1.021 m
+Population: 725.568
+Region: Aegean Region
+Area: 1.025 km^2
+Most popular place: Phrygian Valley
+Most popular food: Cullama Kofte 
+
+
+AGRI
+
+Altitude: 1.640 m
+Population: 536.199
+Region: East anatolia region
+Area: 11.376 km^2
+Most popular place: Mount Ararat 
+Most popular food: Gosteberg Et
+
+
+AMASYA
+
+Altitude: 1.150 m
+Population: 337.508
+Region: Blacksea Region
+Area: 1.730 km^2
+Most popular place: Yaliboyu Evleri
+Most popular food: Hengel
+
+
+ANKARA
+
+Altitude: 938 m
+Population: 5.639.076 
+Region: Central Anatolia Region
+Area: 24.521 km^2
+Most popular place: Anitkabir
+Most popular food: Ankara Simidi(Turkish Bagel)
+
+
+ANTALYA
+
+Altitude: 39 m
+Population: 2.511.700
+Region: The Mediterranean region
+Area: 20.177 km^2
+Most popular place: Duden Waterfall 
+Most popular food: Aksu Piyaz With Tahini
+
+
+ARTVIN
+
+Altitude: 345 m
+Population: 170.875
+Region: Black Sea region
+Area: 7.436 km^2
+Most popular place: Artvin Cam Teras
+Most popular food: Kaygana
+
+
+AYDIN
+
+Altitude: 64 m
+Population: 1.110.972
+Region: The Aegean region
+Area: 1.582 km^2
+Most popular place: Castle Guvercinada  
+Most popular food: Yuvarlama
+
+
+BALIKESIR
+
+Altitude: 70 m
+Population: 1.228.620
+Region: Marmara region
+Area: 1.454 km^2
+Most popular place: Island Pasalimani 
+Most popular food: Peynirli Patlican
+
+
+BILECIK
+
+Altitude: 513 m
+Population: 223.448
+Region: Marmara region
+Area: 4.307 km^2
+Most popular place: Ertugrul Gazi Turbesi
+Most popular food: Ovmac Corbası
+
+
+BINGOL
+
+Altitude: 1.125 m
+Population: 279.812
+Region: East Anatolia region
+Area: 8.125 km^2
+Most popular place: Kos Thermal Spring
+Most popular food: Mastuva
+
+
+BITLIS
+
+Altitude: 1.545 m
+Population: 348.115
+Region: East Anatolia region
+Area: 8.294 km^2
+Most popular place: Tarihi Bitlis Evleri
+Most popular food: Buryan
+
+
+BOLU
+
+Altitude: 726 m
+Population: 311.810
+Region: Black Sea region
+Area: 1.524 km^2
+Most popular place: Lake Abant
+Most popular food: Abant Kebab
+
+
+BURDUR
+
+Altitude: 950 m 
+Population: 270.796
+Region: The Mediterranean region
+Area: 7.176 km^2
+Most popular place: Lake Salda
+Most popular food: Murdumek 
+
+
+BURSA
+
+Altitude: 100 m
+Population: 3.056.120
+Region: Marmara region
+Area: 1.036 km^2
+Most popular place: Uludag
+Most popular food: Iskender 
+
+
+CANAKKALE
+
+Altitude: 2 m
+Population: 542.157
+Region: Marmara And Aegean region
+Area: 949 km^2
+Most popular place: Sehitlik
+Most popular food: Iskorpit Corbasi
+
+
+CANKIRI
+
+Altitude: 730 m
+Population: 216.362
+Region: Central Anatolia Region
+Area: 1.347 km^2
+Most popular place: Tuz Cave
+Most popular food: Tatar Hamuru Corbasi
+
+
+CORUM
+
+Altitude: 801 m
+Population: 536.483
+Region: BlackSea region
+Area: 12.820 km^2
+Most popular place: Alacahoyuk 
+Most popular food: Kuzu Tandir
+
+
+DENIZLI
+
+Altitude: 354 m
+Population: 1.037.208
+Region: Mediterranean And Central Anatolia region
+Area: 12.321 km^2
+Most popular place: Pamukkale Travertenleri
+Most popular food: Keskek
+
+
+DIYARBAKIR
+
+Altitude: 660 m
+Population: 1,756,356
+Region: Southeast Anatolia region
+Area: 15,272 km^2
+Most popular place: Diyarbakir Museum
+Most popular food: Kaburga Dolmasi
+
+
+EDIRNE
+
+Altitude: 62 m
+Population: 413,903
+Region: Marmara region
+Area: 6,098 km^2
+Most popular place: Meric Koprusu
+Most popular food: Ciger Sarma
+
+
+ELAZIG
+
+Altitude: 1.070 m
+Population: 591.098
+Region: East Anatolia region
+Area: 9,383 km^2
+Most popular place: Castle Harput 
+Most popular food: Harput Corba
+
+
+ERZINCAN
+
+Altitude: 1.185 m
+Population: 223.633
+Region: East Anatolia region
+Area: 11.974 km^2
+Most popular place: Kemaliye Dark Canyon
+Most popular food: Yaprak Doner
+
+
+ERZURUM
+
+Altitude: 1.853 m
+Population: 762.062
+Region: East Anatolia region
+Area: 25.355 km^2
+Most popular place: The Double Minaret Madrasah
+Most popular food: Asotu Corbasi
+
+
+ESKISEHIR
+
+Altitude: 788 m
+Population: 887.475
+Region: Central Anatolia region
+Area: 13.925 km^2
+Most popular place: Odunpazari Houses 
+Most popular food: Balaban Kofte
+
+
+GAZIANTEP
+
+Altitude: 750 m
+Population: 2.069.364
+Region: Southeastern Anatolia region
+Area: 6.803 km^2
+Most popular place: Zeugma Museum
+Most popular food: Baklava
+
+
+GIRESUN
+
+Altitude: 10 m
+Population: 453.912
+Region: Black Sea region
+Area: 6.934 km^2
+Most popular place: Rainforest Kuzalan 
+Most popular food: Karalahana Soup
+
+
+GUMUSHANE
+
+Altitude: 1.227 m
+Population: 146.353
+Region: Black Sea region
+Area: 6.575 km^2
+Most popular place: Karaca Cave 
+Most popular food: Borani
+
+
+HAKKARI
+
+Altitude: 1,720 m
+Population: 276.287
+Region: Southeast Anatolia Region
+Area: 9,521 km^2
+Most popular place: Semdinli TasKopru
+Most popular food: Masin Soup
+
+
+HATAY
+
+Altitude: 100 m
+Population: 1.628.894
+Region: The Mediterranean region
+Area: 5.524 km^2
+Most popular place: Antakya Arkeoloji Museum
+Most popular food: Biberli Bread
+
+
+ISPARTA
+
+Altitude: 1.049 m
+Population: 418.780
+Region: The Mediterranean region
+Area: 8.993 km^2
+Most popular place: Egirdir lake
+Most popular food: Top Tarhana
+
+
+MERSIN
+
+Altitude: 5 m
+Population: 1.840.425
+Region: The Mediterranean region
+Area: 15.620 km^2
+Most popular place: Castle Kiz
+Most popular food: Tantuni
+
+
+ISTANBUL
+
+Altitude: 40 m
+Population: 16.512.216
+Region: Marmara region
+Area: 5.343 km^2
+Most popular place: Galata Tower
+Most popular food: Ortakoy Kumpir
+
+
+IZMIR
+
+Altitude: 30 m
+Population: 4.367.251
+Region: Aegean region
+Area: 11.891 km^2
+Most popular place: Saat Kulesi
+Most popular food: Boyoz
+
+
+KARS
+
+Altitude: 1.760 m
+Population: 296.466
+Region: East Anatolia region
+Area: 9,442 km^2
+Most popular place: Cildir Golu
+Most popular food: Kars Kasari
+
+
+KASTAMONU
+
+Altitude: 775 m
+Population: 383.373
+Region: Black Sea region
+Area: 13.108 km^2
+Most popular place: Kastamonu Museum
+Most popular food: Sarimsak
+
+
+KAYSERI
+
+Altitude: 1.054 m
+Population: 1.407.409
+Region: Central Anatolia region
+Area: 17.170 km^2
+Most popular place: Mount Erciyes
+Most popular food: Manti
+
+
+KIRKLARELI
+
+Altitude: 203 m 
+Population: 343.723
+Region: Marmara region
+Area: 6.550 km^2
+Most popular place: Igneada Beach
+Most popular food: Borani
+
+
+KIRSEHIR
+
+Altitude: 985 m
+Population: 222.707
+Region: The Central Anatolia region
+Area: 6.570 km^2
+Most popular place: Neset Ertas Cultural Center
+Most popular food: Yufka Ustu Bulgur Pilavi
+
+
+KOCAELI
+
+Altitude: 184 m
+Population: 1.953.035
+Region: Marmara Region
+Area: 3.397 km^2
+Most popular place: Ballikayalar Natural Park
+Most popular food: Pismaniye
+
+
+KONYA
+
+Altitude: 1.016 m
+Population: 2.232.374
+Region: Central Anatolia region
+Area: 41.001 km^2
+Most popular place: Mevlana Tomb
+Most popular food: Bread With Meat
+
+
+KUTAHYA
+
+Altitude: 970 m
+Population: 571.554
+Region: Aegean region
+Area: 11.977 km^2
+Most popular place: Cinili Mosque
+Most popular food: Sini Mantisi
+
+
+MALATYA
+
+Altitude: 977 m
+Population: 800.165
+Region: Eastern Anatolia region
+Area: 12.146 km^2
+Most popular place: Malatya Sire Market
+Most popular food: Kayisi
+
+
+MANISA
+
+Altitude: 79 m 
+Population: 1.440.611
+Region: Aegean region
+Area: 13.339 km^2
+Most popular place: Kursunlu Thermal Springs
+Most popular food: Nohutlu Manti 
+
+
+KAHRAMANMARAS
+
+Altitude: 67 m 
+Population: 1.154.102 
+Region: Mediterranean region
+Area: 3.017 km^2
+Most popular place: Kahramanmaras Castle
+Most popular food: ice Cream
+
+
+MARDIN
+
+Altitude: 1083 m 
+Population: 843.671 
+Region: Southeastern Anatolia Region
+Area: 8.891 km^2
+Most popular place: Mardin Museum
+Most popular food: Iskembe Dolmasi
+
+
+MUGLA
+
+Altitude: 660 m 
+Population: 983.142 
+Region: Aegean region
+Area: 12.974 km^2
+Most popular place: Oludeniz
+Most popular food: Okra with Oliv Oil
+
+
+MUS
+
+Altitude: 1350 m
+Population: 408.809 
+Region: Eastern Anatolia region
+Area: 2.604 km^2
+Most popular place: Mus Plain
+Most popular food: Corti
+
+
+NEVSEHIR
+
+Altitude: 1150 m
+Population: 298.339
+Region: Central Anatolia region
+Area: 535 km^2
+Most popular place: Kapadokya
+Most popular food: Testi kebab
+
+
+NIGDE
+
+Altitude: 1229 m 
+Population: 362.861
+Region: Central Anatolia region
+Area: 2.303 km^2
+Most popular place: Gumusler Monastery
+Most popular food: Arabasi soup
+
+
+ORDU
+
+Altitude: 5 m
+Population: 754.198 
+Region: Black Sea region
+Area: 6.001 km^2
+Most popular place: Boztepe
+Most popular food: Sakarca Kayganasi
+
+
+RIZE
+
+Altitude: 6 m 
+Population: 348.608
+Region: Black Sea region
+Area: 3.920 km^2
+Most popular place: Ayder plateau 
+Most popular food: Mihlama
+
+
+SAKARYA
+
+Altitude: 31 m 
+Population: 1.029.650
+Region: Marmara region
+Area: 4.878 km^2
+Most popular place: Karasu Beach
+Most popular food: Dimbil Soup
+
+
+SAMSUN
+
+Altitude: 4 m 
+Population: 1.348.542
+Region: Black Sea region
+Area: 1.055 km^2
+Most popular place: Sahinkaya Canyon
+Most popular food: Oymaagac Kebab
+
+
+SIIRT
+
+Altitude: 670 m
+Population: 318.366
+Region: Southeastern Anatolia Region
+Area: 6.182 km^2
+Most popular place: Tillo Castle
+Most popular food: Buryan Kebab
+
+
+SINOP
+
+Altitude: 28 m 
+Population: 204.526
+Region: Black Sea Region
+Area: 5.862 km^2
+Most popular place: Boyabat Castle
+Most popular food: Sinop Mantisi
+
+
+SIVAS
+
+Altitude: 1.285 m
+Population: 623.116
+Region: Central Anatolia Region
+Area: 28.488 km^2
+Most popular place: Sivas Grand Mosque
+Most popular food: Madimak
+
+
+TEKIRDAG
+
+Altitude: 37 m
+Population: 1.055.412
+Region: Marmara region
+Area: 6.339 km^2
+Most popular place: Rakoczi Museum
+Most popular food: Tekirdag Koftesi
+
+
+TOKAT
+
+Altitude: 623 m 
+Population: 597.220
+Region: Black Sea region
+Area: 10.075 km^2
+Most popular place: Cave Ballica
+Most popular food: Tokat Sarmasi
+
+
+TRABZON
+
+Altitude: 0 m
+Population: 807.903
+Region: Black Sea region
+Area: 4.662 km^2
+Most popular place: Sumela Monastery
+Most popular food: Kuymak
+
+
+TUNCELI
+
+Altitude: 940 m
+Population: 86.527
+Region: Eastern Anatolia Region
+Area: 7.774 km^2
+Most popular place: Munzur Gozeleri
+Most popular food: Babuko
+
+
+SANLIURFA
+
+Altitude: 510 m
+Population: 2.073.614
+Region: Southeastern Anatolia Region
+Area: 19.451 km^2
+Most popular place: Balikli Lake 
+Most popular food: Urfa kebab
+
+
+USAK
+
+Altitude: 907 m
+Population: 349.459
+Region: Aegean region
+Area: 5.341 km^2
+Most popular place: Tasyaran Valley 
+Most popular food: Et Basma
+
+
+VAN
+
+Altitude: 1.730 m
+Population: 1.136.757
+Region: Eastern Anatolia Region
+Area: 21.334 km^2
+Most popular place: Akdamar Island
+Most popular food: Breakfast(Van)
+
+
+YOZGAT
+
+Altitude: 1300 m 
+Population: 424.981
+Region: Central Anatolia region
+Area: 2.054 km^2
+Most popular place: Capanoglu Mosque
+Most popular food: Tandir kebab
+
+
+ZONGULDAK
+
+Altitude: 13 m 
+Population: 213.544
+Region: Black Sea region
+Area: 3.341 km^2
+Most popular place: Gokgol Cave
+Most popular food: Ugmac Soup
+
+
+AKSARAY
+
+Altitude: 980 m
+Population: 412.172
+Region: Central Anatolia region
+Area: 4.589 km^2
+Most popular place: Ihlara Valley
+Most popular food: Okra Soup
+
+
+BAYBURT
+
+Altitude: 1150 m 
+Population: 84.843
+Region: Black Sea region
+Area: 3.652 km^2
+Most popular place:Bayburt Castle
+Most popular food: Doner
+
+
+KARAMAN
+
+Altitude: 1039 m
+Population: 251.913
+Region: Central Anatolia region
+Area: 3.686 km^2
+Most popular place: Manazan Cave
+Most popular food: Zulbiye
+
+
+KIRIKKALE
+
+Altitude: 740 m 
+Population: 286.602
+Region: Central Anatolia region
+Area: 4.365 km^2
+Most popular place: Hasandede Mosque
+Most popular food: Tuvalak
+
+
+BATMAN
+
+Altitude: 550 m
+Population: 608.659 
+Region: Southeasthern Anatolia region
+Area: 4.477 km^2
+Most popular place: Hasankeyf
+Most popular food: Icli Kofte
+
+
+SIRNAK
+
+Altitude: 1400 m
+Population: 529.615
+Region: Southeasthern Anatolia region
+Area:  7.078 km^2
+Most popular place: Cudi Dagi 
+Most popular food: Kutlik
+
+
+BARTIN
+
+Altitude: 25 m 
+Population: 198.249
+Region: Black Sea Region
+Area: 2143 km^2
+Most popular place: Guzelcehisar Cove
+Most popular food: Pumpum Soup
+
+
+ARDAHAN
+
+Altitude: 1.900 m 
+Population: 97.319
+Region: East Anatolia Region
+Area: 4934 km^2
+Most popular place: Seytan Kalesi
+Most popular food: Etli Manti
+
+
+IGDIR
+
+Altitude: 850 m
+Population: 199.442
+Region: East Anatolia region
+Area: 3.664 km^2
+Most popular place: Tuzluca Tuz Cave
+Most popular food: Lepeli Eksili Pilav
+
+
+YALOVA
+
+Altitude: 5 m
+Population:  270.976
+Region: Marmara region
+Area: 799 km^2
+Most popular place: Yuruyen kosk 
+Most popular food: Yalova Kebab
+
+
+KARABUK
+
+Altitude: 280 m
+Population: 248.458
+Region: Black Sea region
+Area:  4.142 km^2
+Most popular place: Safranbolu Evleri 
+Most popular food: Uzun fasulye
+
+
+KILIS
+
+Altitude: 663 m
+Population(2020): 142.490
+Region: Southeastern Anatolia region
+Area: 1.412 km^2
+Most popular place: Ravanda Castle
+Most popular food: Tesrube yemegi
+
+
+OSMANIYE
+
+Altitude: 121 m
+Population: 538.759
+Region: The Medittarenean region
+Area: 3.321 km^2
+Most popular place: Toprakkale Castle
+Most popular food: Etli Kiyma
+
+
+DUZCE
+
+Altitude: 160 m
+Population: 392.166
+Region: Black Sea region
+Area:  2.492 km^2
+Most popular place: Guzeldere Waterfall
+Most popular food: Cerkez Chicken
